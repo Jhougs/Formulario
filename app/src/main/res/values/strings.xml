@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name= "Formulario">Formulario</string>
+    <string name= "Nombre">Nombre:</string>
+    <string name= "Correo">Correo Electronico:</string>
+    <string name= "documento">Numero de documento:</string>
+    <string name= "guardar">Guardar</string>
+    <string name="Campo">Campo Requerido</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Repetir_Contra">Repita la contraseña</string>
+    <string name="Vista_texto">Información del Usuario: </string>
+    <string name="password_error">Las Contraseñas no son iguales</string>
+    <string name="Email_required">Debe llenar todos los campos</string>
+    <string name="Genero">Género</string>
+    <string name="Femenino">Femenino</string>
+    <string name="Masculino">Masculino</string>
+    <string name="Pasatiempos">Pasatiempos</string>
+    <string name="Deporte">Deporte</string>
+    <string name="eat">Comer</string>
+    <string name="leer">Leer</string>
+    <string name="play">Juego</string>
+    <string name="Born_place">Ingrese su lugar de nacimiento:</string>
+    <string name="Date_born">Ingrese su fecha de nacimiento</string>
+    <string-array name="Place_Born">
+        <item>Bello</item>
+        <item>Medellin</item>
+        <item>Copacabana</item>
+        <item>Envigado </item>
+
+    </string-array>
+</resources>
